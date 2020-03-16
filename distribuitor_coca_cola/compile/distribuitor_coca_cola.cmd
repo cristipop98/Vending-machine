@@ -1,0 +1,1 @@
+-w -s "D:\My_Designs\distribuitor\library.cfg"  -j "D:\My_Designs\distribuitor\distribuitor_coca_cola\projlib.cfg"  -d "D:\My_Designs\distribuitor\distribuitor_coca_cola\compile\"  -work distribuitor_coca_cola -dbg -e 100 "D:\My_Designs\distribuitor\distribuitor_coca_cola\src\distribuitor.vhd" 

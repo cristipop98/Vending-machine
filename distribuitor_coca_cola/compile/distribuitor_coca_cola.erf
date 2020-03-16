@@ -1,0 +1,5 @@
+MESSAGE "File: D:\My_Designs\distribuitor\distribuitor_coca_cola\src\distribuitor.vhd" 
+MESSAGE "Compile Entity "distribuitor"" 
+MESSAGE "Entity `distribuitor' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "arh_dis" of Entity "distribuitor"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.8 [s]" 
